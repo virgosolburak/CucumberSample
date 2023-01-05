@@ -1,0 +1,30 @@
+ https://www.saucedemo.com/
+ TC1:
+ Kullanıcı standat user ile siteye login olur
+ Kullanıcı 4. ürünü sepete ekler
+   Kullanıcı sepet iconunu tıklar
+   Kullanıcı ana sayfada gelen ürünün fiyatının buradakiyle aynı olduğunu görür
+  ##Not: Burada ana sayfada 49.90 görülen fiyatla cart.html sayfasında görülen turarın aynı olduğunun kontrolü gerekmektedir
+   Kullanıcı checkOut butonunu tıklar
+   Information page üzerinde isim alanına Joel soyisim alanına Miller posta kodu alnına 0600 girer ve Continue butonunu tıklar
+   Item total tutarının ana sayfada görülen turarla aynı olduğu görülür
+  Kullanıcı Finish butonunu tıklar
+  Kullanıcı THANK YOU FOR YOUR ORDER ikazını görür
+
+  TC2:
+   Kullanıcı standat user ile siteye login olur
+   Kullanıcı 5. ürünü sepete ekler
+     Kullanıcı sepet iconunu tıklar
+     Kullanıcı ana sayfada gelen ürünün fiyatının buradakiyle aynı olduğunu görür
+     Kullanıcı checkOut butonunu tıklar
+     Information page üzerinde isim alanına Max soyisim alanına Payne posta kodu alnına 3500 girer ve Continue butonunu tıklar
+     Item total tutarının ana sayfada görülen turarla aynı olduğu görülür
+    Kullanıcı Finish butonunu tıklar
+    Kullanıcı THANK YOU FOR YOUR ORDER ikazını görür
+
+
+
+
+
+
+
